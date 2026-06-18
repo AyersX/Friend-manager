@@ -96,7 +96,8 @@ Follow these steps to set up and run the project on your computer:
 
 ## Project Structure
 ```
-.
+project dir
+|
 ├── app.py                      # Main Streamlit application
 ├── config/                     # Project configuration settings
 │   └── settings.py             # Global configuration variables
