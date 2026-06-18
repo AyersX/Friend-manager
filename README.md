@@ -95,7 +95,7 @@ Follow these steps to set up and run the project on your computer:
     *   Start asking questions. The AI will use the knowledge from your uploaded documents to give relevant answers.
 
 ## Project Structure
-```text
+```
 .
 ├── app.py                      # Main Streamlit application
 ├── config/                     # Project configuration settings
@@ -115,7 +115,7 @@ Follow these steps to set up and run the project on your computer:
 │   ├── history.jsonl           # Chat history
 │   └── prompts.txt             # System prompt
 └── pyproject.toml              # Project metadata and dependencies
-
+```
 ## Future Development & Improvements
 
 This project can be improved further, including:
